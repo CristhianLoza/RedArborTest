@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ms-source-put.Api.props" />
+</Project>

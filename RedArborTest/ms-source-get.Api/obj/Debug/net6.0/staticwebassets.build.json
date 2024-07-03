@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Ql/0ib8AoV7jSqCFBx+kgt9p4DVCThKkl6NMcVrIdT0=",
+  "Source": "ms-source-get.Api",
+  "BasePath": "_content/ms-source-get.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

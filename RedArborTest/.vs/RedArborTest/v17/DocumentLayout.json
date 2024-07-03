@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\RedArborTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{870B9C3D-C36D-4BCA-9EBC-7879AD983F2D}|ms-source-create.Api\\ms-source-create.Api.csproj|c:\\users\\admin\\source\\repos\\redarbortest\\ms-source-create.api\\controllers\\createcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{870B9C3D-C36D-4BCA-9EBC-7879AD983F2D}|ms-source-create.Api\\ms-source-create.Api.csproj|solutionrelative:ms-source-create.api\\controllers\\createcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35CBE13A-B0D3-45BF-BC90-E61F29A1C86B}|ms-source-create.Domain\\ms-source-create.Domain.csproj|c:\\users\\admin\\source\\repos\\redarbortest\\ms-source-create.domain\\services\\createrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35CBE13A-B0D3-45BF-BC90-E61F29A1C86B}|ms-source-create.Domain\\ms-source-create.Domain.csproj|solutionrelative:ms-source-create.domain\\services\\createrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{870B9C3D-C36D-4BCA-9EBC-7879AD983F2D}|ms-source-create.Api\\ms-source-create.Api.csproj|c:\\users\\admin\\source\\repos\\redarbortest\\ms-source-create.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{870B9C3D-C36D-4BCA-9EBC-7879AD983F2D}|ms-source-create.Api\\ms-source-create.Api.csproj|solutionrelative:ms-source-create.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{870B9C3D-C36D-4BCA-9EBC-7879AD983F2D}|ms-source-create.Api\\ms-source-create.Api.csproj|c:\\users\\admin\\source\\repos\\redarbortest\\ms-source-create.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{870B9C3D-C36D-4BCA-9EBC-7879AD983F2D}|ms-source-create.Api\\ms-source-create.Api.csproj|solutionrelative:ms-source-create.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35CBE13A-B0D3-45BF-BC90-E61F29A1C86B}|ms-source-create.Domain\\ms-source-create.Domain.csproj|c:\\users\\admin\\source\\repos\\redarbortest\\ms-source-create.domain\\contracts\\icreaterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35CBE13A-B0D3-45BF-BC90-E61F29A1C86B}|ms-source-create.Domain\\ms-source-create.Domain.csproj|solutionrelative:ms-source-create.domain\\contracts\\icreaterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\RedArborTest\\ms-source-create.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "ms-source-create.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\RedArborTest\\ms-source-create.Api\\appsettings.json",
+              "RelativeToolTip": "ms-source-create.Api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-03T03:03:08.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\RedArborTest\\ms-source-create.Api\\Program.cs",
+              "RelativeDocumentMoniker": "ms-source-create.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\RedArborTest\\ms-source-create.Api\\Program.cs",
+              "RelativeToolTip": "ms-source-create.Api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T02:47:54.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\RedArborTest\\ms-source-create.Domain\\Services\\CreateRepository.cs",
+              "RelativeDocumentMoniker": "ms-source-create.Domain\\Services\\CreateRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\RedArborTest\\ms-source-create.Domain\\Services\\CreateRepository.cs",
+              "RelativeToolTip": "ms-source-create.Domain\\Services\\CreateRepository.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwB0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T02:30:02.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICreateRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\RedArborTest\\ms-source-create.Domain\\Contracts\\ICreateRepository.cs",
+              "RelativeDocumentMoniker": "ms-source-create.Domain\\Contracts\\ICreateRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\RedArborTest\\ms-source-create.Domain\\Contracts\\ICreateRepository.cs",
+              "RelativeToolTip": "ms-source-create.Domain\\Contracts\\ICreateRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T02:20:29.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\RedArborTest\\ms-source-create.Api\\Controllers\\CreateController.cs",
+              "RelativeDocumentMoniker": "ms-source-create.Api\\Controllers\\CreateController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\RedArborTest\\ms-source-create.Api\\Controllers\\CreateController.cs",
+              "RelativeToolTip": "ms-source-create.Api\\Controllers\\CreateController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T02:09:46.687Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

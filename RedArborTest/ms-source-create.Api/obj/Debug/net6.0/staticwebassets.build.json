@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "9tP4sh80HqV3x3Dp4mAtN5++MOgHCqB59OlX89uVG3g=",
+  "Source": "ms-source-create.Api",
+  "BasePath": "_content/ms-source-create.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

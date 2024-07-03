@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\RedArborTest\ms-source-create.Infraestructure\bin\Debug\net6.0\ms-source-create.Infraestructure.deps.json
+C:\Users\Admin\source\repos\RedArborTest\ms-source-create.Infraestructure\bin\Debug\net6.0\ms-source-create.Infraestructure.runtimeconfig.json
+C:\Users\Admin\source\repos\RedArborTest\ms-source-create.Infraestructure\bin\Debug\net6.0\ms-source-create.Infraestructure.dll
+C:\Users\Admin\source\repos\RedArborTest\ms-source-create.Infraestructure\bin\Debug\net6.0\ms-source-create.Infraestructure.pdb
+C:\Users\Admin\source\repos\RedArborTest\ms-source-create.Infraestructure\obj\Debug\net6.0\ms-source-create.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\RedArborTest\ms-source-create.Infraestructure\obj\Debug\net6.0\ms-source-create.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\RedArborTest\ms-source-create.Infraestructure\obj\Debug\net6.0\ms-source-create.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\RedArborTest\ms-source-create.Infraestructure\obj\Debug\net6.0\ms-source-create.Infraestructure.AssemblyInfo.cs
+C:\Users\Admin\source\repos\RedArborTest\ms-source-create.Infraestructure\obj\Debug\net6.0\ms-source-create.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\RedArborTest\ms-source-create.Infraestructure\obj\Debug\net6.0\ms-source-create.Infraestructure.dll
+C:\Users\Admin\source\repos\RedArborTest\ms-source-create.Infraestructure\obj\Debug\net6.0\refint\ms-source-create.Infraestructure.dll
+C:\Users\Admin\source\repos\RedArborTest\ms-source-create.Infraestructure\obj\Debug\net6.0\ms-source-create.Infraestructure.pdb
+C:\Users\Admin\source\repos\RedArborTest\ms-source-create.Infraestructure\obj\Debug\net6.0\ms-source-create.Infraestructure.genruntimeconfig.cache
+C:\Users\Admin\source\repos\RedArborTest\ms-source-create.Infraestructure\obj\Debug\net6.0\ref\ms-source-create.Infraestructure.dll

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Yt4Q2k9rZP8gyAToYaAJgkS8LsEvEYTdFtOm5ThgvbU=",
+  "Source": "ms-source-delete.Api",
+  "BasePath": "_content/ms-source-delete.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

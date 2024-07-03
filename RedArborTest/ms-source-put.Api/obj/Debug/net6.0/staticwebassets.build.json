@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "72m7t5q5xRKa5e1d8MlUNm8PvUHNPzN/1+1RUrhlz3Y=",
+  "Source": "ms-source-put.Api",
+  "BasePath": "_content/ms-source-put.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
