@@ -13,3 +13,4 @@ C:\Users\Admin\source\repos\RedArborTest\ms-source-create.Domain\bin\Debug\net6.
 C:\Users\Admin\source\repos\RedArborTest\ms-source-create.Domain\bin\Debug\net6.0\ms-source-create.Infraestructure.pdb
 C:\Users\Admin\source\repos\RedArborTest\ms-source-create.Domain\obj\Debug\net6.0\ms-source-create.Domain.csproj.AssemblyReference.cache
 C:\Users\Admin\source\repos\RedArborTest\ms-source-create.Domain\obj\Debug\net6.0\ms-sourc.AA964753.Up2Date
+C:\Users\Admin\source\repos\RedArborTest\ms-source-create.Domain\obj\Debug\net6.0\ms-source-create.Domain.sourcelink.json

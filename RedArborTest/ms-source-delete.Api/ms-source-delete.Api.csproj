@@ -12,7 +12,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Controllers\" />
+    <ProjectReference Include="..\ms-source-delete.Domain\ms-source-delete.Domain.csproj" />
   </ItemGroup>
 
 </Project>

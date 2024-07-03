@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ms-source-put.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c10c6f189d819a9c2c48e8712c90264150757385")]
 [assembly: System.Reflection.AssemblyProductAttribute("ms-source-put.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ms-source-put.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

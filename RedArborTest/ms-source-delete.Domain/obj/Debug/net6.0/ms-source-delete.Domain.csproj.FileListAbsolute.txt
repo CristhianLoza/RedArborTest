@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\RedArborTest\ms-source-delete.Domain\bin\Debug\net6.0\ms-source-delete.Domain.deps.json
+C:\Users\Admin\source\repos\RedArborTest\ms-source-delete.Domain\bin\Debug\net6.0\ms-source-delete.Domain.dll
+C:\Users\Admin\source\repos\RedArborTest\ms-source-delete.Domain\bin\Debug\net6.0\ms-source-delete.Domain.pdb
+C:\Users\Admin\source\repos\RedArborTest\ms-source-delete.Domain\obj\Debug\net6.0\ms-source-delete.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\RedArborTest\ms-source-delete.Domain\obj\Debug\net6.0\ms-source-delete.Domain.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\RedArborTest\ms-source-delete.Domain\obj\Debug\net6.0\ms-source-delete.Domain.AssemblyInfo.cs
+C:\Users\Admin\source\repos\RedArborTest\ms-source-delete.Domain\obj\Debug\net6.0\ms-source-delete.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\RedArborTest\ms-source-delete.Domain\obj\Debug\net6.0\ms-source-delete.Domain.sourcelink.json
+C:\Users\Admin\source\repos\RedArborTest\ms-source-delete.Domain\obj\Debug\net6.0\ms-source-delete.Domain.dll
+C:\Users\Admin\source\repos\RedArborTest\ms-source-delete.Domain\obj\Debug\net6.0\refint\ms-source-delete.Domain.dll
+C:\Users\Admin\source\repos\RedArborTest\ms-source-delete.Domain\obj\Debug\net6.0\ms-source-delete.Domain.pdb
+C:\Users\Admin\source\repos\RedArborTest\ms-source-delete.Domain\obj\Debug\net6.0\ref\ms-source-delete.Domain.dll
+C:\Users\Admin\source\repos\RedArborTest\ms-source-delete.Domain\bin\Debug\net6.0\ms-source-delete.Infraestructure.dll
+C:\Users\Admin\source\repos\RedArborTest\ms-source-delete.Domain\bin\Debug\net6.0\ms-source-delete.Infraestructure.pdb
+C:\Users\Admin\source\repos\RedArborTest\ms-source-delete.Domain\obj\Debug\net6.0\ms-source-delete.Domain.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\RedArborTest\ms-source-delete.Domain\obj\Debug\net6.0\ms-sourc.14E49E04.Up2Date

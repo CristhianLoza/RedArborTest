@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\RedArborTest\ms-source-delete.Infraestructure\bin\Debug\net6.0\ms-source-delete.Infraestructure.deps.json
+C:\Users\Admin\source\repos\RedArborTest\ms-source-delete.Infraestructure\bin\Debug\net6.0\ms-source-delete.Infraestructure.runtimeconfig.json
+C:\Users\Admin\source\repos\RedArborTest\ms-source-delete.Infraestructure\bin\Debug\net6.0\ms-source-delete.Infraestructure.dll
+C:\Users\Admin\source\repos\RedArborTest\ms-source-delete.Infraestructure\bin\Debug\net6.0\ms-source-delete.Infraestructure.pdb
+C:\Users\Admin\source\repos\RedArborTest\ms-source-delete.Infraestructure\obj\Debug\net6.0\ms-source-delete.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\RedArborTest\ms-source-delete.Infraestructure\obj\Debug\net6.0\ms-source-delete.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\RedArborTest\ms-source-delete.Infraestructure\obj\Debug\net6.0\ms-source-delete.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\RedArborTest\ms-source-delete.Infraestructure\obj\Debug\net6.0\ms-source-delete.Infraestructure.AssemblyInfo.cs
+C:\Users\Admin\source\repos\RedArborTest\ms-source-delete.Infraestructure\obj\Debug\net6.0\ms-source-delete.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\RedArborTest\ms-source-delete.Infraestructure\obj\Debug\net6.0\ms-source-delete.Infraestructure.sourcelink.json
+C:\Users\Admin\source\repos\RedArborTest\ms-source-delete.Infraestructure\obj\Debug\net6.0\ms-source-delete.Infraestructure.dll
+C:\Users\Admin\source\repos\RedArborTest\ms-source-delete.Infraestructure\obj\Debug\net6.0\refint\ms-source-delete.Infraestructure.dll
+C:\Users\Admin\source\repos\RedArborTest\ms-source-delete.Infraestructure\obj\Debug\net6.0\ms-source-delete.Infraestructure.pdb
+C:\Users\Admin\source\repos\RedArborTest\ms-source-delete.Infraestructure\obj\Debug\net6.0\ms-source-delete.Infraestructure.genruntimeconfig.cache
+C:\Users\Admin\source\repos\RedArborTest\ms-source-delete.Infraestructure\obj\Debug\net6.0\ref\ms-source-delete.Infraestructure.dll
