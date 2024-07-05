@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ms-source-create.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c10c6f189d819a9c2c48e8712c90264150757385")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a48d0ed12007bcf69dce48b727cc986ea56042d3")]
 [assembly: System.Reflection.AssemblyProductAttribute("ms-source-create.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ms-source-create.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,11 +1,12 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using ms_source_create.Domain.Contracts;
+using ms_source_create.Domain.Dto;
 using ms_source_create.Infraestructure.Entities.Employee;
 
 namespace ms_source_create.Api.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("api/redarbor")]
     [ApiController]
     public class CreateController : ControllerBase
     {
@@ -19,7 +20,7 @@ namespace ms_source_create.Api.Controllers
         }
 
         [HttpPost]
-        public Employee CreateEmployee(Employee employee)
+        public ResponseDto CreateEmployee(Employee employee)
         {
             return _createRepository.CreateEmployee(employee);
         }

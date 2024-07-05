@@ -9,6 +9,6 @@ namespace ms_source_delete.Domain.Contracts
 {
     public interface IDeleteRepository
     {
-        int DeleteEmployee(Employee employee);
+        bool DeleteEmployee(int id);
     }
 }

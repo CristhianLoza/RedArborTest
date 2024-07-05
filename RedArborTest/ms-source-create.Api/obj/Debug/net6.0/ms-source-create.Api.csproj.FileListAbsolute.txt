@@ -290,3 +290,6 @@ C:\Users\Admin\source\repos\RedArborTest\ms-source-create.Api\bin\Debug\net6.0\m
 C:\Users\Admin\source\repos\RedArborTest\ms-source-create.Api\bin\Debug\net6.0\ms-source-create.Domain.pdb
 C:\Users\Admin\source\repos\RedArborTest\ms-source-create.Api\bin\Debug\net6.0\ms-source-create.Infraestructure.pdb
 C:\Users\Admin\source\repos\RedArborTest\ms-source-create.Api\obj\Debug\net6.0\ms-source-create.Api.sourcelink.json
+C:\Users\Admin\source\repos\RedArborTest\ms-source-create.Api\bin\Debug\net6.0\Dapper.dll
+C:\Users\Admin\source\repos\RedArborTest\ms-source-create.Api\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\Admin\source\repos\RedArborTest\ms-source-create.Api\bin\Debug\net6.0\System.Threading.Channels.dll

@@ -8,11 +8,14 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+    <PackageReference Include="RabbitMQ.Client" Version="6.8.1" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Controllers\" />
+    <ProjectReference Include="..\ms-source-get.Domain\ms-source-get.Domain.csproj" />
+    <ProjectReference Include="..\ms-source-get.Infraestructure\ms-source-get.Infraestructure.csproj" />
   </ItemGroup>
 
 </Project>

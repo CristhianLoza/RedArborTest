@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\RedArborTest\ms-source-put.Infraestructure\bin\Debug\net6.0\ms-source-put.Infraestructure.deps.json
+C:\Users\Admin\source\repos\RedArborTest\ms-source-put.Infraestructure\bin\Debug\net6.0\ms-source-put.Infraestructure.runtimeconfig.json
+C:\Users\Admin\source\repos\RedArborTest\ms-source-put.Infraestructure\bin\Debug\net6.0\ms-source-put.Infraestructure.dll
+C:\Users\Admin\source\repos\RedArborTest\ms-source-put.Infraestructure\bin\Debug\net6.0\ms-source-put.Infraestructure.pdb
+C:\Users\Admin\source\repos\RedArborTest\ms-source-put.Infraestructure\obj\Debug\net6.0\ms-source-put.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\RedArborTest\ms-source-put.Infraestructure\obj\Debug\net6.0\ms-source-put.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\RedArborTest\ms-source-put.Infraestructure\obj\Debug\net6.0\ms-source-put.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\RedArborTest\ms-source-put.Infraestructure\obj\Debug\net6.0\ms-source-put.Infraestructure.AssemblyInfo.cs
+C:\Users\Admin\source\repos\RedArborTest\ms-source-put.Infraestructure\obj\Debug\net6.0\ms-source-put.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\RedArborTest\ms-source-put.Infraestructure\obj\Debug\net6.0\ms-source-put.Infraestructure.sourcelink.json
+C:\Users\Admin\source\repos\RedArborTest\ms-source-put.Infraestructure\obj\Debug\net6.0\ms-source-put.Infraestructure.dll
+C:\Users\Admin\source\repos\RedArborTest\ms-source-put.Infraestructure\obj\Debug\net6.0\refint\ms-source-put.Infraestructure.dll
+C:\Users\Admin\source\repos\RedArborTest\ms-source-put.Infraestructure\obj\Debug\net6.0\ms-source-put.Infraestructure.pdb
+C:\Users\Admin\source\repos\RedArborTest\ms-source-put.Infraestructure\obj\Debug\net6.0\ms-source-put.Infraestructure.genruntimeconfig.cache
+C:\Users\Admin\source\repos\RedArborTest\ms-source-put.Infraestructure\obj\Debug\net6.0\ref\ms-source-put.Infraestructure.dll

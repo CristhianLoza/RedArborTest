@@ -15,18 +15,31 @@ namespace ms_source_delete.Domain.Services
             _redarbordbContext = context;
         }
 
-        public int DeleteEmployee(Employee employee)
+        ///<summary>
+        ///Elimina un empleado de la tabla employee
+        ///</summary>
+        ///<return>
+        ///Devuelve un true si el empleado fue eliminado o un false si fallo o no Elimino 
+        ///</return>
+        ///<param name="id">
+        ///El UserId del empleado que se desea eliminar
+        ///</param>
+        public bool DeleteEmployee(int id)
         {
             try
             {
+                var employee = _redarbordbContext.Employees.FirstOrDefault(x=>x.UserId == id);
                 _redarbordbContext.Employees.Remove(employee);
                 _redarbordbContext.SaveChanges();
-                return employee.UserId;
+
+                SimpleEmitter.SendMessage(employee, MQSettingBuilder.Build(), "DeleteEmpleados");
+
+                return true;
             }
             catch (Exception ex)
             {
-                _logger.LogError(ex, "error CreateEmployee Employee {arg}", employee.Username);
-                return employee.UserId;
+                _logger.LogError(ex, "error DeleteEmployee Employee {arg}", id);
+                return false;
             }
         }
     }

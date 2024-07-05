@@ -1,8 +1,22 @@
+using Microsoft.EntityFrameworkCore;
+using ms_source_put.Domain.Contracts;
+using ms_source_put.Domain.Services;
+using ms_source_put.Infraestructure.Entities.Employee;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 
+string ambiente = builder.Configuration.GetValue<string>("ambiente");
+string connectionString = builder.Configuration.GetConnectionString(ambiente);
+
+builder.Services.AddDbContext<redarbordbContext>(options =>
+{
+    options.UseSqlServer(connectionString);
+}, ServiceLifetime.Transient);
+
 builder.Services.AddControllers();
+builder.Services.AddTransient<IUpdateRepository, UpdateRepository>();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();

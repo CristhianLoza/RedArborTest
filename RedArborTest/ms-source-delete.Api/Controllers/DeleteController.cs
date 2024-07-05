@@ -4,7 +4,7 @@ using ms_source_delete.Infraestructure.Entities.Employee;
 
 namespace ms_source_delete.Api.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("api/redarbor")]
     [ApiController]
     public class DeleteController : ControllerBase
     {
@@ -17,10 +17,10 @@ namespace ms_source_delete.Api.Controllers
             _deleteRepository=deleteRepository;
         }
 
-        [HttpPost]
-        public int DeleteEmployee(Employee employee)
+        [HttpDelete("{id:int}")]
+        public bool DeleteEmployees(int id)
         {
-            return _deleteRepository.DeleteEmployee(employee);
+            return _deleteRepository.DeleteEmployee(id);
         }
     }
 }
