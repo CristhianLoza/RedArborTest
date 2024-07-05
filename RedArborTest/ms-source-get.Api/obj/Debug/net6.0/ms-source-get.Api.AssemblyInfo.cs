@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ms-source-get.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a48d0ed12007bcf69dce48b727cc986ea56042d3")]
 [assembly: System.Reflection.AssemblyProductAttribute("ms-source-get.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ms-source-get.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

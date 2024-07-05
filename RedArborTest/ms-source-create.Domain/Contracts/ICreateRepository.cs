@@ -1,4 +1,5 @@
-﻿using ms_source_create.Infraestructure.Entities.Employee;
+﻿using ms_source_create.Domain.Dto;
+using ms_source_create.Infraestructure.Entities.Employee;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,6 +10,6 @@ namespace ms_source_create.Domain.Contracts
 {
     public interface ICreateRepository
     {
-        Employee CreateEmployee(Employee employee);
+        ResponseDto CreateEmployee(Employee employee);
     }
 }

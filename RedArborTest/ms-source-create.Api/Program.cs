@@ -6,10 +6,6 @@ using ms_source_create.Infraestructure.Entities.Employee;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-//builder.Services.AddDbContext<redarbordbContext>(options =>
-//{
-//    options.UseSqlServer();
-//});
 
 string ambiente = builder.Configuration.GetValue<string>("ambiente");
 string connectionString = builder.Configuration.GetConnectionString(ambiente);

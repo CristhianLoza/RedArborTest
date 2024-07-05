@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\RedArborTest\ms-source-get.Domain\bin\Debug\net6.0\ms-source-get.Domain.deps.json
+C:\Users\Admin\source\repos\RedArborTest\ms-source-get.Domain\bin\Debug\net6.0\ms-source-get.Domain.dll
+C:\Users\Admin\source\repos\RedArborTest\ms-source-get.Domain\bin\Debug\net6.0\ms-source-get.Domain.pdb
+C:\Users\Admin\source\repos\RedArborTest\ms-source-get.Domain\obj\Debug\net6.0\ms-source-get.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\RedArborTest\ms-source-get.Domain\obj\Debug\net6.0\ms-source-get.Domain.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\RedArborTest\ms-source-get.Domain\obj\Debug\net6.0\ms-source-get.Domain.AssemblyInfo.cs
+C:\Users\Admin\source\repos\RedArborTest\ms-source-get.Domain\obj\Debug\net6.0\ms-source-get.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\RedArborTest\ms-source-get.Domain\obj\Debug\net6.0\ms-source-get.Domain.sourcelink.json
+C:\Users\Admin\source\repos\RedArborTest\ms-source-get.Domain\obj\Debug\net6.0\ms-source-get.Domain.dll
+C:\Users\Admin\source\repos\RedArborTest\ms-source-get.Domain\obj\Debug\net6.0\refint\ms-source-get.Domain.dll
+C:\Users\Admin\source\repos\RedArborTest\ms-source-get.Domain\obj\Debug\net6.0\ms-source-get.Domain.pdb
+C:\Users\Admin\source\repos\RedArborTest\ms-source-get.Domain\obj\Debug\net6.0\ref\ms-source-get.Domain.dll
+C:\Users\Admin\source\repos\RedArborTest\ms-source-get.Domain\obj\Debug\net6.0\ms-source-get.Domain.csproj.AssemblyReference.cache

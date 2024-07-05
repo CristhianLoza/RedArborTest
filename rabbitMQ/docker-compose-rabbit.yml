@@ -1,0 +1,28 @@
+version: '3.5'
+
+networks:
+  backend:
+    name: backend
+    external: false
+
+# Docker services
+services:
+  rabbitmq:
+    image: rabbitmq:3.13-management
+    container_name: rabbitmq
+    restart: always
+    hostname: rabbitmq
+    networks:
+      - backend
+    ports:
+      #HTTP DASHBOARD FOR MANAGEMENT
+      - 15672:15672
+      # AMQP PROTOCOL
+      - 5672:5672
+      # MQTT PROTOCOL
+      - 1883:1883
+      # MQTT OVER WEBSOCKETS
+      - 15675:15675
+    expose:
+      - 15672
+      - 5672

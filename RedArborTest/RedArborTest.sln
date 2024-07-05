@@ -3,17 +3,29 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35013.160
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ms-source-create.Api", "ms-source-create.Api\ms-source-create.Api.csproj", "{870B9C3D-C36D-4BCA-9EBC-7879AD983F2D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ms-source-create.Api", "ms-source-create.Api\ms-source-create.Api.csproj", "{870B9C3D-C36D-4BCA-9EBC-7879AD983F2D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ms-source-get.Api", "ms-source-get.Api\ms-source-get.Api.csproj", "{8A863295-D4D3-418A-ABF9-3458922EEFE9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ms-source-get.Api", "ms-source-get.Api\ms-source-get.Api.csproj", "{8A863295-D4D3-418A-ABF9-3458922EEFE9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ms-source-delete.Api", "ms-source-delete.Api\ms-source-delete.Api.csproj", "{FE1FAF99-0A00-4BB6-8CBA-9D3D2659CB12}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ms-source-delete.Api", "ms-source-delete.Api\ms-source-delete.Api.csproj", "{FE1FAF99-0A00-4BB6-8CBA-9D3D2659CB12}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ms-source-put.Api", "ms-source-put.Api\ms-source-put.Api.csproj", "{C54567B0-EC20-4E01-A784-472C3D4C6D0E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ms-source-put.Api", "ms-source-put.Api\ms-source-put.Api.csproj", "{C54567B0-EC20-4E01-A784-472C3D4C6D0E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ms-source-create.Domain", "ms-source-create.Domain\ms-source-create.Domain.csproj", "{35CBE13A-B0D3-45BF-BC90-E61F29A1C86B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ms-source-create.Domain", "ms-source-create.Domain\ms-source-create.Domain.csproj", "{35CBE13A-B0D3-45BF-BC90-E61F29A1C86B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ms-source-create.Infraestructure", "ms-source-create.Infraestructure\ms-source-create.Infraestructure.csproj", "{BEAB8FED-7A3B-4D20-AA79-AFF28D188123}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ms-source-create.Infraestructure", "ms-source-create.Infraestructure\ms-source-create.Infraestructure.csproj", "{BEAB8FED-7A3B-4D20-AA79-AFF28D188123}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ms-source-delete.Domain", "ms-source-delete.Domain\ms-source-delete.Domain.csproj", "{6E640055-B484-4A14-A4FB-B0ADC2DF9E80}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ms-source-delete.Infraestructure", "ms-source-delete.Infraestructure\ms-source-delete.Infraestructure.csproj", "{06B00A67-C2AC-42FB-B4F1-9F17DBE37105}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ms-source-get.Domain", "ms-source-get.Domain\ms-source-get.Domain.csproj", "{8512A4DE-5FC9-426E-AE8A-41BA6D932F43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ms-source-get.Infraestructure", "ms-source-get.Infraestructure\ms-source-get.Infraestructure.csproj", "{9B0109CC-D0E8-4E56-8487-84E450F50839}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ms-source-put.Domain", "ms-source-put.Domain\ms-source-put.Domain.csproj", "{9614B862-9C54-480F-9BE9-5F94DC141DD6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ms-source-put.Infraestructure", "ms-source-put.Infraestructure\ms-source-put.Infraestructure.csproj", "{F0172AF4-08FA-4409-BB62-2E38ADD7CEA1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +57,30 @@ Global
 		{BEAB8FED-7A3B-4D20-AA79-AFF28D188123}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BEAB8FED-7A3B-4D20-AA79-AFF28D188123}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BEAB8FED-7A3B-4D20-AA79-AFF28D188123}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E640055-B484-4A14-A4FB-B0ADC2DF9E80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E640055-B484-4A14-A4FB-B0ADC2DF9E80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E640055-B484-4A14-A4FB-B0ADC2DF9E80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E640055-B484-4A14-A4FB-B0ADC2DF9E80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06B00A67-C2AC-42FB-B4F1-9F17DBE37105}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06B00A67-C2AC-42FB-B4F1-9F17DBE37105}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06B00A67-C2AC-42FB-B4F1-9F17DBE37105}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06B00A67-C2AC-42FB-B4F1-9F17DBE37105}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8512A4DE-5FC9-426E-AE8A-41BA6D932F43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8512A4DE-5FC9-426E-AE8A-41BA6D932F43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8512A4DE-5FC9-426E-AE8A-41BA6D932F43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8512A4DE-5FC9-426E-AE8A-41BA6D932F43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B0109CC-D0E8-4E56-8487-84E450F50839}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B0109CC-D0E8-4E56-8487-84E450F50839}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B0109CC-D0E8-4E56-8487-84E450F50839}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B0109CC-D0E8-4E56-8487-84E450F50839}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9614B862-9C54-480F-9BE9-5F94DC141DD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9614B862-9C54-480F-9BE9-5F94DC141DD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9614B862-9C54-480F-9BE9-5F94DC141DD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9614B862-9C54-480F-9BE9-5F94DC141DD6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0172AF4-08FA-4409-BB62-2E38ADD7CEA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0172AF4-08FA-4409-BB62-2E38ADD7CEA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0172AF4-08FA-4409-BB62-2E38ADD7CEA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0172AF4-08FA-4409-BB62-2E38ADD7CEA1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,6 @@
+docker run -it --rm --name rabbitmq -p 5672:5672 -p 15672:15672 rabbitmq:3.12-management
+http://localhost:15672/ 
+uid : guest
+pwd : guest
+
+docker-compose up -d 
